@@ -4,5 +4,6 @@ public class tiposPrimitivos {
         String nome = "Samuel";
         int idade = 19;
         double altura = 1.76;
+        boolean faculdade = true;
     }
 }
